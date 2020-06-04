@@ -44,7 +44,7 @@ bot.on('message', function(message){
 
 bot.on('message', function(message){
     if(message.content == "whats the ip"){
-        message.channel.send("> **IP:** `Linnex.club` abc");
+        message.channel.send("> **IP:** `Linnex.club`");
     }
 })
 
